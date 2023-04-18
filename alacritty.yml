@@ -1,0 +1,49 @@
+window:
+  padding:
+    x: 12
+    y: 12
+  opacity: 0.8
+
+env:
+  TERM: xterm-256color
+
+scrolling:
+  history: 1000
+
+font:
+  normal:
+    family: Roboto Mono
+    style: Regular
+  bold:
+    family: Roboto Mono
+    style: Bold
+  italic:
+    family: Roboto Mono
+    style: Italic
+
+  size: 11
+
+colors:
+  primary:
+      background: '#263238'
+      foreground: '#e1e2e6'
+
+#  normal:
+#    black:   '#263238'
+#    red:     '#c43060'
+#    green:   '#9cf087'
+#    yellow:  '#ffc107'
+#    blue:    '#00bcd4'
+#    magenta: '#ff94c2'
+#    cyan:    '#00ffff'
+#    white:   '#f9f9f9'
+
+#  bright:
+#    black:   '#263238'
+#    red:     '#c43060'
+#    green:   '#9cf087'
+#    yellow:  '#ffc107'
+#    blue:    '#00bcd4'
+#    magenta: '#ff94c2'
+#    cyan:    '#00ffff'
+#    white:   '#f9f9f9'
